@@ -1,7 +1,6 @@
 [
   { "Authorname": "John Doe", "email": "john@example.com" },
-  { "Authorname": "John Doe", "email": "john@example.com" },
-  { "Authorname": "John Doe", "email": "john@gmail.com"},
-  { "Authorname": "Jack", "email":"jack@gmail.com" },
-  { "Authorname": "Jack", "email":"jack@yahoo.com"}
+  { "Authorname": "Jack", "email":"jack@yahoo.com"},
+  { "Authorname": "Joy", "email":"joy@yahoo.com"},
+  { "Authorname": "Tom", "email":"tom@yahoo.com"}
 ]
