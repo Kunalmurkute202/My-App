@@ -1,1 +1,28 @@
-
+[
+  {
+    "sha": "c1",
+    "commit": {
+      "author": {
+        "name": "John Doe",
+        "email": "john@example.com"
+      }
+    },
+    "author": {
+      "login": "johndoe",
+      "id": 101
+    }
+  },
+  {
+    "sha": "c2",
+    "commit": {
+      "author": {
+        "name": "John Doe",
+        "email": "john+alias@example.com"
+      }
+    },
+    "author": {
+      "login": "johndoe",
+      "id": 101
+    }
+  }
+]
