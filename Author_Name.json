@@ -1,28 +1,6 @@
 [
-  {
-    "sha": "c1",
-    "commit": {
-      "author": {
-        "name": "John Doe",
-        "email": "john@example.com"
-      }
-    },
-    "author": {
-      "login": "johndoe",
-      "id": 101
-    }
-  },
-  {
-    "sha": "c2",
-    "commit": {
-      "author": {
-        "name": "John Doe",
-        "email": "john+alias@example.com"
-      }
-    },
-    "author": {
-      "login": "johndoe",
-      "id": 101
-    }
-  }
+  { "name": "John Doe", "email": "john@example.com" },
+  { "name": "John Doe", "email": "john@example.com" },
+  { "name": "John Doe", "email": "john@gmail.com"},
+  { "name": "Kunal", "email":"kunla@gmail.com" }
 ]
